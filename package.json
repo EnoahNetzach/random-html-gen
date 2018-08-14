@@ -1,0 +1,19 @@
+{
+  "name": "random-html-gen",
+  "version": "1.0.0",
+  "description": "Random HTML5 generator",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "indent-string": "^3.2.0",
+    "lodash": "^4.17.10",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
